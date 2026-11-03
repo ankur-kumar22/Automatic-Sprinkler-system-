@@ -10,7 +10,7 @@ These photos show the physical project setup and the ESP32-C5 serial output duri
 
 | Project setup | Close-up of the hardware and serial monitor |
 |---|---|
-| ![Full project setup](images/project-setup.jpg) | ![Project hardware and serial monitor close-up](images/project-setup-closeup.jpg) |
+| ![Full project setup](images/project-setup-closeup.jpg) | ![Project hardware and serial monitor close-up](images/project-setup.jpg) |
 
 ---
 
