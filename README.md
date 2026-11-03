@@ -10,7 +10,7 @@ These photos show the physical project setup and the ESP32-C5 serial output duri
 
 | Project setup | Close-up of the hardware and serial monitor |
 |---|---|
-| ![Full project setup](images/project-setup-closeup.jpg) | ![Project hardware and serial monitor close-up](images/project-setup.jpg) |
+| ![Full project setup](project-setup.jpg) | ![Project hardware and serial monitor close-up](project-setup-closeup.jpg) |
 
 ---
 
@@ -201,3 +201,4 @@ Checks on the Serial output:
 ## Disclaimer
 
 This project is provided as-is for learning and hobby use. Working with mains voltage is dangerous, and you are responsible for correct and safe wiring. The author accepts no liability for damage or injury.
+
